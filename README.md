@@ -1,4 +1,4 @@
-# 2_browser_automation
+# 3_browser_automation
 
 Code for Lecture 3: Browser Auomaion
 
